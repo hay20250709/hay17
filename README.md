@@ -10,4 +10,4 @@
 
 平台提供了不同种类的影片，确保每个观众都能找到符合自己口味的内容。每部影片都标明了演员、时长以及清晰度等详细信息，以便为用户提供更好的观看体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/hay20250709/hay17 ）</span>
